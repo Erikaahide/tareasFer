@@ -1,0 +1,27 @@
+@media (max-width: 576px) {
+    .center-text-sm {
+      text-align: center;
+    }
+  }
+
+.container{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.carousel-item {
+    height: 300px;
+    object-fit: cover;
+    object-position: bottom;
+  }
+
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+    object-position: top;
+  }
+
+.navbar{
+  position: sticky;
+    top: 0;
+}
